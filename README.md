@@ -2,7 +2,7 @@
 
 A modern color shade generation tool built with React and TypeScript, designed to help developers and designers work with colors more efficiently.
 
-[English](#english) | [Türkçe](#türkçe)
+[Live Preview](https://color-picker-3cvuwj78c-huseyinunnlus-projects.vercel.app/) | [English](#english) | [Türkçe](#türkçe)
 
 ## Preview / Önizleme
 
@@ -45,7 +45,7 @@ A modern color shade generation tool built with React and TypeScript, designed t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/color-picker.git
+git clone https://github.com/huseyinunnlu/2to255.git
 cd 2to255
 ```
 
