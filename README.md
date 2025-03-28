@@ -1,4 +1,4 @@
-# 2to255 - Color Shade Generator
+# simple-color-picker - Color Shade Generator
 
 A modern color shade generation tool built with React and TypeScript, designed to help developers and designers work with colors more efficiently.
 
@@ -7,14 +7,14 @@ A modern color shade generation tool built with React and TypeScript, designed t
 ## Preview / Önizleme
 
 <div align="center">
-  <img src="docs/preview.gif" alt="2to255 Preview" width="100%" />
+  <img src="docs/preview.gif" alt="simple-color-picker Preview" width="100%" />
 </div>
 
 ## English
 
 ### Overview
 
-2to255 is a powerful color shade generation tool that enables developers and designers to:
+simple-color-picker is a powerful color shade generation tool that enables developers and designers to:
 
 - Generate color shades from any input color format (HEX, RGB, RGBA)
 - View a comprehensive list of shades from darkest to lightest
@@ -45,8 +45,8 @@ A modern color shade generation tool built with React and TypeScript, designed t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/2to255.git
-cd 2to255
+git clone https://github.com/yourusername/simple-color-picker.git
+cd simple-color-picker
 ```
 
 2. Install dependencies:
@@ -76,7 +76,7 @@ yarn dev
 
 ### Genel Bakış
 
-2to255, geliştiriciler ve tasarımcılar için tasarlanmış modern bir renk tonu üretme aracıdır. Temel özellikleri:
+simple-color-picker, geliştiriciler ve tasarımcılar için tasarlanmış modern bir renk tonu üretme aracıdır. Temel özellikleri:
 
 - Farklı renk formatlarından (HEX, RGB, RGBA) ton üretimi
 - En koyudan en açığa kapsamlı ton listesi görüntüleme

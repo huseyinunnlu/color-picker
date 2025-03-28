@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-2to255 is a color shade generation tool that helps developers and designers to:
+simple-color-picker is a color shade generation tool that helps developers and designers to:
 
 - Generate color shades from any input color format (HEX, RGB, RGBA)
 - Display a comprehensive list of shades from darkest to lightest
